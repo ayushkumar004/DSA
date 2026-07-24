@@ -1,4 +1,4 @@
-#include<bits/stdcpp.h>
+#include<bits/stdc++.h>
 using namespace std;
 int main(){
   vector<int>arr={10,20,5,30,25};
